@@ -1,0 +1,5 @@
+# 已独立克隆的仓库（自带 .git，不纳入本仓库）
+cyber-xiaoya-live/
+
+# WorkBuddy 工作区数据（非项目文件）
+.workbuddy/
